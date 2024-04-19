@@ -1,7 +1,7 @@
 # WatchNixtoons2
 
 A Kodi add-on for streaming Cartoons and Anime from a well stocked website.
-Include TV series and Movies in 480, 720 and some 1080 versions when available.
+Includes TV series and Movies in 480, 720 and some 1080 versions when available.
 Anime includes Subbed and Dubbed versions.
    
 Original version by Doko
