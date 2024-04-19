@@ -11,4 +11,4 @@ Sourced from [Reddit r/Kodi_Helpers](https://www.reddit.com/r/Kodi_Helpers/comme
 
 lolage notifies me of all updates which are copied into the Animaniac repo within 24 hours.
 
-![screenshot](https://images2.imgbox.com/b1/7a/wmdubsNr_o.png)  
+![screenshot](https://oldmanjax.github.io/screenshot.jpg)  
