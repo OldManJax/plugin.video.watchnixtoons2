@@ -7,8 +7,8 @@ Anime includes Subbed and Dubbed versions.
 Original version by Doko
 Now maintained and further developed by lolage.
 
-lolage notifies me of all updates which are copied into the Animaniac repo within 24 hours.
-[the Animaniac Repository](https://oldmanjax.github.io/)
+lolage notifies me of all updates which are copied into the [Animaniac repo](https://oldmanjax.github.io/) within 24 hours.
+
 The Animaniac Repository is also included in the Crew Repository so it updates at the same time.
 
 The Diggz Repository is also quick at posting the newest versions.
